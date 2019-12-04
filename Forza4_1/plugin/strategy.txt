@@ -1,0 +1,1 @@
+level1 net.studionotturno.ForzaQuattro.domain.Strategy.Level_1

@@ -1,0 +1,2 @@
+cmd net.studionotturno.ForzaQuattro.ui.commandLine.ViewFactoryCMD
+JavaFx net.studionotturno.ForzaQuattro.ui.fx.ViewFactoryFX
